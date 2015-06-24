@@ -1,0 +1,22 @@
+body {
+  max-width: 600px;
+  margin: 12rem auto;
+  font: 16px 'League Spartan';
+  text-align: center;
+}
+h1 {
+  max-width: 300px;
+  border-bottom: 1px dashed black;
+  padding-bottom: 0.368rem;
+  margin: 2rem auto;
+}
+#celcius {
+  margin-bottom: 1rem;
+  font-size: 1.618rem;
+}
+input {
+  font-size: 16px;
+  max-width: 30px;
+  padding: 0.618rem 1rem;
+  margin-right: 0.318rem;
+}
